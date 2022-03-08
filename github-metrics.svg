@@ -359,17 +359,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Blade</span>
-                            <div class="bar" style="width: 64.0090395480226%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">80%</span>
+                            <div class="bar" style="width: 64.48007369552344%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">81%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 11.210847457627118%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 10.880617638672604%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 4.780112994350282%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.639308665803961%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                     </div>
@@ -2364,6 +2364,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2649,7 +2654,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2022, 06:12:34 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 07:49:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
