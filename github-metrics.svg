@@ -359,18 +359,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Blade</span>
-                            <div class="bar" style="width: 66.94622928643896%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 67.19310144365856%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">84%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 11.61988501859993%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.651971708167814%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 1.4338856949611092%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">2%</span>
+                            <div class="bar" style="width: 1.1549268481736266%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
                         </div>
                     </div>
                 </section>
@@ -2539,7 +2539,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.10m out of 86m users</span>
+                                    <span class="gh">ranked 4.11m out of 86m users</span>
                                 </div>
                                 <div class="text">Published 10 public repositories</div>
                             </div>
@@ -2669,7 +2669,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2022, 03:13:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 12 Mar 2022, 04:11:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
