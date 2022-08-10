@@ -359,23 +359,23 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 25.77613888255889%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <span class="name">Blade</span>
+                                <div class="bar" style="width: 32.71401902391324%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Blade</span>
-                                <div class="bar" style="width: 24.652482857202045%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">31%</span>
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 22.12178860343142%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 6.370698763232583%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 5.252733576317895%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 3.304675685194009%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.8361632145079563%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -2666,7 +2666,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2022, 12:12:52 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 13:18:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
